@@ -10,3 +10,4 @@ Quora tutorial - Two Pointer - (https://www.quora.com/q/techparoksha/The-Two-Poi
 
 CP-Algorithms tutorial - Maximum Sum - (https://cp-algorithms.com/others/maximum_average_segment.html)
 
+baps - (https://baps-bgd.github.io/greedy-and-searching/)
