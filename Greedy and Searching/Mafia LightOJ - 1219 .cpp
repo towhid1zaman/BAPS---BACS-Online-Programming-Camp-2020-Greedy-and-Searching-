@@ -44,8 +44,9 @@ const double pi = acos(-1.0);
 const int inf = 0x3f3f3f3f;// (int)3e18;
 const int maxn = 10005;
 
-/*
- *
+/*every node has some boys, i have to distribute all boys to every node
+ *at the end every node have to 1 boy
+ *print how many move required
  */
 int boys[maxn];
 std::vector<int>adj[maxn];
