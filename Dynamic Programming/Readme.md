@@ -11,3 +11,5 @@
 ***Tarango Khan CF tutorial - Digit DP :*** https://codeforces.com/blog/entry/53960
 
 ***CF tutorial - DP with Bitmasks :*** https://codeforces.com/blog/entry/337
+
+***CF tutorial - Non-Trivial DP Tricks :*** https://codeforces.com/blog/entry/47764
